@@ -1,1 +1,1 @@
-
+[CV](/assets/cv.pdf)
