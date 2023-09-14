@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Suchetha Nambanoor Kunnath"
+  avatar : "/assets/images/profile_pic.jpeg"
+  bio    : "PhD student in Data Science"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
